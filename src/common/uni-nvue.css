@@ -19,7 +19,7 @@ page {
 
 .uni-container {
     padding: 0 5px;
-    background-color: #f8f8f8;
+    background-color: #efeff4;
 }
 
 .uni-header-logo {
@@ -73,7 +73,7 @@ page {
 }
 /*
 .uni-panel-h:active {
-    background-color: #f8f8f8;
+    background-color: #efeff4;
 }
  */
 .uni-panel-h-on {
@@ -118,7 +118,7 @@ page {
 }
 
 .uni-navigate-item:active {
-    background-color: #f8f8f8;
+    background-color: #efeff4;
 }
 
 .uni-navigate-text {

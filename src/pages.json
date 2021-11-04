@@ -2,6 +2,12 @@
 	"pages": [ 
 
         {
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "用户登录"
+			}
+		},
+        {
 			"path": "pages/tabBar/home/index",
 			"style": {
 				"app-plus": {
@@ -18,7 +24,7 @@
                     "titleNView": {
                         "type": "transparent",
                         "titleColor": "#fff",
-                        "backgroundColor": "#f8f8f8",
+                        "backgroundColor": "#efeff4",
                         
                         "searchInput": {
                             "backgroundColor": "#fff",
@@ -47,14 +53,14 @@
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarBackgroundColor": "#efeff4",
+		"backgroundColor": "#efeff4"
 	},
     "tabBar": {
 		"color": "#7A7E83",
 		"selectedColor": "#007AFF",
 		"borderStyle": "black",
-		"backgroundColor": "#F8F8F8",
+		"backgroundColor": "#efeff4",
 		"list": [{
 				"pagePath": "pages/tabBar/home/index",
 				"iconPath": "static/home.png",
